@@ -12,6 +12,10 @@ header{
     position: sticky;
     top: 0;
 }
+img{
+    width:330px;
+    height:300px
+}
 nav a {
     color: #fff;
     text-decoration: none;
@@ -110,4 +114,5 @@ footer a{
 }
 footer a:hover{
     background-color: #454545;
+
 }
