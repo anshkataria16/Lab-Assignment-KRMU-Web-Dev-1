@@ -103,6 +103,7 @@ tr:hover {
 .sub:hover{
     background-color:#454545 ;
     cursor: pointer;
+    transition:background-color 0.3s;
 }
 footer a{
     text-decoration: none;
@@ -114,5 +115,6 @@ footer a{
 }
 footer a:hover{
     background-color: #454545;
-
+    transition:background-color 0.3s;
 }
+
